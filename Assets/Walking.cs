@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Walking : MonoBehaviour
 {
-    public float speed = 0.5f;
+    public float speed = 0.05f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
