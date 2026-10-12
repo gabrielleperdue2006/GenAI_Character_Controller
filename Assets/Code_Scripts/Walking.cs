@@ -14,7 +14,7 @@ public class Walking : MonoBehaviour
         if (Input.GetKey(KeyCode.UpArrow) ==true)
         {
            
-            if (transform.position.y < 8) {
+            if (transform.position.y < 10) {
 
             transform.Translate(0f, 0.01f, 0f);
             } // End of if statement (Player 1 moves up)
@@ -23,7 +23,7 @@ public class Walking : MonoBehaviour
 
         if (Input.GetKey(KeyCode.DownArrow) == true)
         {
-            if (transform.position.y > -8)
+            if (transform.position.y > -10)
             {
                 transform.Translate(0f, -0.01f, 0f);
             } // End of if statement (Player 1 moves down)
@@ -31,7 +31,7 @@ public class Walking : MonoBehaviour
 
         if (Input.GetKey(KeyCode.LeftArrow) == true)
         {
-            if (transform.position.x > -8)
+            if (transform.position.x > -10)
             {
                 transform.Translate(-0.01f, 0f, 0f);
             } // End of if statement (Player 1 moves left)
@@ -39,7 +39,7 @@ public class Walking : MonoBehaviour
 
         if (Input.GetKey(KeyCode.RightArrow) == true)
         {
-            if (transform.position.x < 8)
+            if (transform.position.x < 10)
             {
                 transform.Translate(0.01f, 0f, 0f);
             } // End of if statement (Player 1 moves right)
