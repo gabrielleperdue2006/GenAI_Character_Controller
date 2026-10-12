@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Walking : MonoBehaviour
 {
-    public float speed = 0.05f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,9 +16,8 @@ public class Walking : MonoBehaviour
            
             if (transform.position.y < 8) {
 
-            transform.Translate(speed, 0f, 0f);
-
-            } // End of if statement (Player moves up)
+            transform.Translate(0f, 0.01f, 0f);
+            } // End of if statement (Player 1 moves up)
            
         } // end of if statement (Player 1 presses up arrow)
 
@@ -27,28 +25,26 @@ public class Walking : MonoBehaviour
         {
             if (transform.position.y > -8)
             {
-                transform.Translate(-speed, 0f, 0f);
-            } // End of if statement (Player moves down)
-
+                transform.Translate(0f, -0.01f, 0f);
+            } // End of if statement (Player 1 moves down)
         } // end of if statement (Player 1 presses down arrow)
 
         if (Input.GetKey(KeyCode.LeftArrow) == true)
         {
             if (transform.position.x > -8)
             {
-                transform.Translate(0f, 0f, -speed);
-            } // End of if statement (Player moves left)
-
+                transform.Translate(-0.01f, 0f, 0f);
+            } // End of if statement (Player 1 moves left)
         } // end of if statement (Player 1 presses left arrow)
 
         if (Input.GetKey(KeyCode.RightArrow) == true)
         {
             if (transform.position.x < 8)
             {
-                transform.Translate(0f, 0f, speed);
-            } // End of if statement (Player moves right)
-
+                transform.Translate(0.01f, 0f, 0f);
+            } // End of if statement (Player 1 moves right)
         } // end of if statement (Player 1 presses right arrow)
 
+
     } // End of Update
-} // End of Walking class
+} // End of Walking
