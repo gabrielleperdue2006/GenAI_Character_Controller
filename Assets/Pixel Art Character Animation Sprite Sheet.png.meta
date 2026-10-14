@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: d32bf3576328f4f8ab1b51b8debdc8c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7407105282860947309
+    second: Pixel Art Character Animation Sprite Sheet_0
+  - first:
+      213: 1978779836536822854
+    second: Pixel Art Character Animation Sprite Sheet_1
+  - first:
+      213: 6900244202272368665
+    second: Pixel Art Character Animation Sprite Sheet_2
+  - first:
+      213: -1489611114612437444
+    second: Pixel Art Character Animation Sprite Sheet_3
+  - first:
+      213: 7747963155206744955
+    second: Pixel Art Character Animation Sprite Sheet_4
+  - first:
+      213: -4659603458440635785
+    second: Pixel Art Character Animation Sprite Sheet_5
+  - first:
+      213: 4764413281401462217
+    second: Pixel Art Character Animation Sprite Sheet_6
+  - first:
+      213: -5133881707252284286
+    second: Pixel Art Character Animation Sprite Sheet_7
+  - first:
+      213: 1625293667219103372
+    second: Pixel Art Character Animation Sprite Sheet_8
+  - first:
+      213: -7192761291743008900
+    second: Pixel Art Character Animation Sprite Sheet_9
+  - first:
+      213: -778112843353737907
+    second: Pixel Art Character Animation Sprite Sheet_10
+  - first:
+      213: -8105468774074189331
+    second: Pixel Art Character Animation Sprite Sheet_11
+  - first:
+      213: 587448547038056966
+    second: Pixel Art Character Animation Sprite Sheet_12
+  - first:
+      213: 8481149733190207449
+    second: Pixel Art Character Animation Sprite Sheet_13
+  - first:
+      213: -150651813973976667
+    second: Pixel Art Character Animation Sprite Sheet_14
+  - first:
+      213: 2597468656332862069
+    second: Pixel Art Character Animation Sprite Sheet_15
+  - first:
+      213: -4521668523397056996
+    second: Pixel Art Character Animation Sprite Sheet_16
+  - first:
+      213: -8475114842546716127
+    second: Pixel Art Character Animation Sprite Sheet_17
+  - first:
+      213: 8553026304083921578
+    second: Pixel Art Character Animation Sprite Sheet_18
+  - first:
+      213: 5900577271073807481
+    second: Pixel Art Character Animation Sprite Sheet_19
+  - first:
+      213: -221333653269439661
+    second: Pixel Art Character Animation Sprite Sheet_20
+  - first:
+      213: 6251357659826089236
+    second: Pixel Art Character Animation Sprite Sheet_21
+  - first:
+      213: 2527008058139308145
+    second: Pixel Art Character Animation Sprite Sheet_22
+  - first:
+      213: -8976796633380314353
+    second: Pixel Art Character Animation Sprite Sheet_23
+  - first:
+      213: -7575960043722559035
+    second: Pixel Art Character Animation Sprite Sheet_24
+  - first:
+      213: 4745224588683838732
+    second: Pixel Art Character Animation Sprite Sheet_25
+  - first:
+      213: 3396117258032068091
+    second: Pixel Art Character Animation Sprite Sheet_26
+  - first:
+      213: 4355320079755004671
+    second: Pixel Art Character Animation Sprite Sheet_27
+  - first:
+      213: -8368522063422895698
+    second: Pixel Art Character Animation Sprite Sheet_28
+  - first:
+      213: -8846730610050135562
+    second: Pixel Art Character Animation Sprite Sheet_29
+  - first:
+      213: -6910956342594516532
+    second: Pixel Art Character Animation Sprite Sheet_30
+  - first:
+      213: -726247530428159916
+    second: Pixel Art Character Animation Sprite Sheet_31
+  - first:
+      213: 2961370879363049469
+    second: Pixel Art Character Animation Sprite Sheet_32
+  - first:
+      213: 4164764987496513242
+    second: Pixel Art Character Animation Sprite Sheet_33
+  - first:
+      213: -8714035396588701333
+    second: Pixel Art Character Animation Sprite Sheet_34
+  - first:
+      213: -3384500305656038398
+    second: Pixel Art Character Animation Sprite Sheet_35
+  - first:
+      213: -4687367682505571565
+    second: Pixel Art Character Animation Sprite Sheet_36
+  - first:
+      213: 3626645762978717973
+    second: Pixel Art Character Animation Sprite Sheet_37
+  - first:
+      213: 6941515056213972633
+    second: Pixel Art Character Animation Sprite Sheet_38
+  - first:
+      213: -7073540672274514853
+    second: Pixel Art Character Animation Sprite Sheet_39
+  - first:
+      213: -1727251292690462980
+    second: Pixel Art Character Animation Sprite Sheet_40
+  - first:
+      213: 5545060508270102116
+    second: Pixel Art Character Animation Sprite Sheet_41
+  - first:
+      213: 5939844468025811452
+    second: Pixel Art Character Animation Sprite Sheet_42
+  - first:
+      213: 9052590554408836096
+    second: Pixel Art Character Animation Sprite Sheet_43
+  - first:
+      213: -5919751096644427213
+    second: Pixel Art Character Animation Sprite Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 215
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6798de92035bc660800000000000000
+      internalID: 7407105282860947309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 806
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c9b7df6c9067b10800000000000000
+      internalID: 1978779836536822854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 739
+        width: 119
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918a4ebfa8792cf50800000000000000
+      internalID: 6900244202272368665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 739
+        width: 175
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e4d046596d35be0800000000000000
+      internalID: -1489611114612437444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 739
+        width: 147
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba9ee607b468b60800000000000000
+      internalID: 7747963155206744955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 751
+        width: 133
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ad6799753c55fb0800000000000000
+      internalID: -4659603458440635785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 737
+        width: 131
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd5611f2a89e1240800000000000000
+      internalID: 4764413281401462217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 805
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840a58a9c9c0c8b0800000000000000
+      internalID: -5133881707252284286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 735
+        width: 159
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e594aaaf33e8610800000000000000
+      internalID: 1625293667219103372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 749
+        width: 100
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c776a7bc6bd2e2c90800000000000000
+      internalID: -7192761291743008900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 743
+        width: 229
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d453bb8dd769335f0800000000000000
+      internalID: -778112843353737907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 741
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de979473817938f80800000000000000
+      internalID: -8105468774074189331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d5025759072800800000000000000
+      internalID: 587448547038056966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 489
+        width: 161
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d783bd4fb813b570800000000000000
+      internalID: 8481149733190207449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 451
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9105f29f6c8edf0800000000000000
+      internalID: -150651813973976667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 395
+        width: 279
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727eef1bff0c0420800000000000000
+      internalID: 2597468656332862069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 463
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c167ade4f6ecf31c0800000000000000
+      internalID: -4521668523397056996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 459
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122cc5b24f7526a80800000000000000
+      internalID: -8475114842546716127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 473
+        width: 170
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa8e719b1472b670800000000000000
+      internalID: 8553026304083921578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 481
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c1914f3cf03e150800000000000000
+      internalID: 5900577271073807481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 125
+        width: 779
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b190c073aadecf0800000000000000
+      internalID: -221333653269439661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 400
+        width: 213
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41de9d5aba841c650800000000000000
+      internalID: 6251357659826089236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 469
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17071f1b07cb11320800000000000000
+      internalID: 2527008058139308145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 481
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a176e5030c6380800000000000000
+      internalID: -8976796633380314353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 481
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13d59ba78ccd690800000000000000
+      internalID: -7575960043722559035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0503f34f9c6ad140800000000000000
+      internalID: 4745224588683838732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 447
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5339c17ae612f20800000000000000
+      internalID: 3396117258032068091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 199
+        width: 141
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa4cec7984317c30800000000000000
+      internalID: 4355320079755004671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 211
+        width: 132
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9c8aa85890ddb80800000000000000
+      internalID: -8368522063422895698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 411
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f90364d1691a3580800000000000000
+      internalID: -8846730610050135562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 165
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9cb6d72d95710a0800000000000000
+      internalID: -6910956342594516532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 205
+        width: 131
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45823d908b9dbe5f0800000000000000
+      internalID: -726247530428159916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 13
+        width: 153
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7ee90ff17e81920800000000000000
+      internalID: 2961370879363049469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 255
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb6b4b0b73cc930800000000000000
+      internalID: 4164764987496513242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 169
+        width: 155
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69762ac9f6811780800000000000000
+      internalID: -8714035396588701333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 223
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cbb2367e6d701d0800000000000000
+      internalID: -3384500305656038398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 235
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130c907def13feb0800000000000000
+      internalID: -4687367682505571565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a58c4b1f645230800000000000000
+      internalID: 3626645762978717973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 139
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d8a87a27355060800000000000000
+      internalID: 6941515056213972633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 189
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cbccc5c3cb5dd90800000000000000
+      internalID: -7073540672274514853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 15
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6c955c9129708e0800000000000000
+      internalID: -1727251292690462980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 135
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668c7d372304fc40800000000000000
+      internalID: 5545060508270102116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf16fb1b2119e6250800000000000000
+      internalID: 5939844468025811452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 18
+        width: 199
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5894852341ad70800000000000000
+      internalID: 9052590554408836096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Character Animation Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 601
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a7c5edb1d8dda0800000000000000
+      internalID: -5919751096644427213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Character Animation Sprite Sheet_0: 7407105282860947309
+      Pixel Art Character Animation Sprite Sheet_1: 1978779836536822854
+      Pixel Art Character Animation Sprite Sheet_10: -778112843353737907
+      Pixel Art Character Animation Sprite Sheet_11: -8105468774074189331
+      Pixel Art Character Animation Sprite Sheet_12: 587448547038056966
+      Pixel Art Character Animation Sprite Sheet_13: 8481149733190207449
+      Pixel Art Character Animation Sprite Sheet_14: -150651813973976667
+      Pixel Art Character Animation Sprite Sheet_15: 2597468656332862069
+      Pixel Art Character Animation Sprite Sheet_16: -4521668523397056996
+      Pixel Art Character Animation Sprite Sheet_17: -8475114842546716127
+      Pixel Art Character Animation Sprite Sheet_18: 8553026304083921578
+      Pixel Art Character Animation Sprite Sheet_19: 5900577271073807481
+      Pixel Art Character Animation Sprite Sheet_2: 6900244202272368665
+      Pixel Art Character Animation Sprite Sheet_20: -221333653269439661
+      Pixel Art Character Animation Sprite Sheet_21: 6251357659826089236
+      Pixel Art Character Animation Sprite Sheet_22: 2527008058139308145
+      Pixel Art Character Animation Sprite Sheet_23: -8976796633380314353
+      Pixel Art Character Animation Sprite Sheet_24: -7575960043722559035
+      Pixel Art Character Animation Sprite Sheet_25: 4745224588683838732
+      Pixel Art Character Animation Sprite Sheet_26: 3396117258032068091
+      Pixel Art Character Animation Sprite Sheet_27: 4355320079755004671
+      Pixel Art Character Animation Sprite Sheet_28: -8368522063422895698
+      Pixel Art Character Animation Sprite Sheet_29: -8846730610050135562
+      Pixel Art Character Animation Sprite Sheet_3: -1489611114612437444
+      Pixel Art Character Animation Sprite Sheet_30: -6910956342594516532
+      Pixel Art Character Animation Sprite Sheet_31: -726247530428159916
+      Pixel Art Character Animation Sprite Sheet_32: 2961370879363049469
+      Pixel Art Character Animation Sprite Sheet_33: 4164764987496513242
+      Pixel Art Character Animation Sprite Sheet_34: -8714035396588701333
+      Pixel Art Character Animation Sprite Sheet_35: -3384500305656038398
+      Pixel Art Character Animation Sprite Sheet_36: -4687367682505571565
+      Pixel Art Character Animation Sprite Sheet_37: 3626645762978717973
+      Pixel Art Character Animation Sprite Sheet_38: 6941515056213972633
+      Pixel Art Character Animation Sprite Sheet_39: -7073540672274514853
+      Pixel Art Character Animation Sprite Sheet_4: 7747963155206744955
+      Pixel Art Character Animation Sprite Sheet_40: -1727251292690462980
+      Pixel Art Character Animation Sprite Sheet_41: 5545060508270102116
+      Pixel Art Character Animation Sprite Sheet_42: 5939844468025811452
+      Pixel Art Character Animation Sprite Sheet_43: 9052590554408836096
+      Pixel Art Character Animation Sprite Sheet_44: -5919751096644427213
+      Pixel Art Character Animation Sprite Sheet_5: -4659603458440635785
+      Pixel Art Character Animation Sprite Sheet_6: 4764413281401462217
+      Pixel Art Character Animation Sprite Sheet_7: -5133881707252284286
+      Pixel Art Character Animation Sprite Sheet_8: 1625293667219103372
+      Pixel Art Character Animation Sprite Sheet_9: -7192761291743008900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
