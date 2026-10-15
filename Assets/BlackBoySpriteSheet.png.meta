@@ -1,151 +1,157 @@
 fileFormatVersion: 2
-guid: 7f5e3002330ab4ae89bb8611f78f699f
+guid: fd9aa934a4aa6f45e08ced6a538e8e7b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8587219228494902288
-    second: BlackBoySpriteSheet_0
+      213: -1122542092
+    second: IdleDown_0
   - first:
-      213: 406128230678180943
-    second: BlackBoySpriteSheet_1
+      213: -1578242779
+    second: IdleDown_1
   - first:
-      213: -9043231377115893162
-    second: BlackBoySpriteSheet_2
+      213: -373027721
+    second: IdleDown_2
   - first:
-      213: -2115713369303644070
-    second: BlackBoySpriteSheet_3
+      213: 698869606
+    second: IdleDown_3
   - first:
-      213: -4187144487146125181
-    second: BlackBoySpriteSheet_4
+      213: 283935494
+    second: IdleUp_0
   - first:
-      213: 3633658965015781441
-    second: BlackBoySpriteSheet_5
+      213: 133399666
+    second: IdleUp_1
   - first:
-      213: 17749307303202480
-    second: BlackBoySpriteSheet_6
+      213: 152043075
+    second: IdleUp_2
   - first:
-      213: -7727886969225430163
-    second: BlackBoySpriteSheet_7
+      213: -378788681
+    second: IdleUp_3
   - first:
-      213: 7505764096557057380
-    second: BlackBoySpriteSheet_8
+      213: -1046414685
+    second: IdleLeft_0
   - first:
-      213: 7704063840945134474
-    second: BlackBoySpriteSheet_9
+      213: 1582299615
+    second: IdleLeft_1
   - first:
-      213: 8010563937418110426
-    second: BlackBoySpriteSheet_10
+      213: -1823465629
+    second: IdleLeft_2
   - first:
-      213: -9003094473490248482
-    second: BlackBoySpriteSheet_11
+      213: 1276494463
+    second: IdleLeft_3
   - first:
-      213: -1043398953300583106
-    second: BlackBoySpriteSheet_12
+      213: 282027707
+    second: IdleRight_0
   - first:
-      213: 4922640696554240725
-    second: BlackBoySpriteSheet_13
+      213: -347505621
+    second: IdleRight_1
   - first:
-      213: -8822727641589793720
-    second: BlackBoySpriteSheet_14
+      213: 1471338895
+    second: IdleRight_2
   - first:
-      213: 1287313594966433334
-    second: BlackBoySpriteSheet_15
+      213: 969435553
+    second: IdleRight_3
   - first:
-      213: 648783094260929947
-    second: BlackBoySpriteSheet_16
+      213: -1518386185
+    second: RunDown_0
   - first:
-      213: -5658894832146206872
-    second: BlackBoySpriteSheet_17
+      213: -1974699773
+    second: RunDown_1
   - first:
-      213: 2194264558943091411
-    second: BlackBoySpriteSheet_18
+      213: 859264414
+    second: RunDown_2
   - first:
-      213: 563106840027698351
-    second: BlackBoySpriteSheet_19
+      213: 1306269765
+    second: RunDown_3
   - first:
-      213: -5443101270702624760
-    second: BlackBoySpriteSheet_20
+      213: -2101753993
+    second: RunUp_0
   - first:
-      213: 1957013399459001520
-    second: BlackBoySpriteSheet_21
+      213: 1674226071
+    second: RunUp_1
   - first:
-      213: -4567442978540220582
-    second: BlackBoySpriteSheet_22
+      213: -454664633
+    second: RunUp_2
   - first:
-      213: -7522196324676125656
-    second: BlackBoySpriteSheet_23
+      213: 1578262806
+    second: RunUp_3
   - first:
-      213: -6698510014261878441
-    second: BlackBoySpriteSheet_24
+      213: 813662865
+    second: RunLeft_0
   - first:
-      213: 2546450801092248821
-    second: BlackBoySpriteSheet_25
+      213: 107970752
+    second: RunLeft_1
   - first:
-      213: -6613341506965541605
-    second: BlackBoySpriteSheet_26
+      213: 272192893
+    second: RunLeft_2
   - first:
-      213: -7642545524376211574
-    second: BlackBoySpriteSheet_27
+      213: -751273508
+    second: RunLeft_3
   - first:
-      213: -2969308818311767157
-    second: BlackBoySpriteSheet_28
+      213: 1625481739
+    second: RunLeft_4
   - first:
-      213: 4973608876612413446
-    second: BlackBoySpriteSheet_29
+      213: -1869755406
+    second: RunRight_0
   - first:
-      213: 5869895606294314631
-    second: BlackBoySpriteSheet_30
+      213: 1195129463
+    second: RunRight_1
   - first:
-      213: 7727072569836793239
-    second: BlackBoySpriteSheet_31
+      213: 546357047
+    second: RunRight_2
   - first:
-      213: 5900427923458083397
-    second: BlackBoySpriteSheet_32
+      213: -1370995534
+    second: RunRight_3
   - first:
-      213: -6718936503145649499
-    second: BlackBoySpriteSheet_33
+      213: -1625481741
+    second: RunRight_4
   - first:
-      213: 111575588910705778
-    second: BlackBoySpriteSheet_34
+      213: 1386338826
+    second: JumpDown_0
   - first:
-      213: -3500005198680002657
-    second: BlackBoySpriteSheet_35
+      213: -1033742849
+    second: JumpDown_1
   - first:
-      213: -1062158350430687358
-    second: BlackBoySpriteSheet_36
+      213: 2142684131
+    second: JumpDown_2
   - first:
-      213: -5248939551574530812
-    second: BlackBoySpriteSheet_37
+      213: -1033787038
+    second: JumpDown_3
   - first:
-      213: 1108083427825406137
-    second: BlackBoySpriteSheet_38
+      213: 581688490
+    second: JumpUp_0
   - first:
-      213: 2622785004345041592
-    second: BlackBoySpriteSheet_39
+      213: 1620520831
+    second: JumpUp_1
   - first:
-      213: 4973551871667810217
-    second: BlackBoySpriteSheet_40
+      213: 760704366
+    second: JumpUp_2
   - first:
-      213: -756848173157656612
-    second: BlackBoySpriteSheet_41
+      213: -130692880
+    second: JumpUp_3
   - first:
-      213: 728259461085440484
-    second: BlackBoySpriteSheet_42
+      213: 968512056
+    second: JumpLeft_0
   - first:
-      213: 2533299497417699954
-    second: BlackBoySpriteSheet_43
+      213: -1465768145
+    second: JumpLeft_1
   - first:
-      213: 6781205013105890420
-    second: BlackBoySpriteSheet_44
+      213: 811739818
+    second: JumpLeft_2
   - first:
-      213: -2519194174209855735
-    second: BlackBoySpriteSheet_45
+      213: 345714460
+    second: JumpLeft_3
   - first:
-      213: -8979507490994843874
-    second: BlackBoySpriteSheet_46
+      213: 903058533
+    second: JumpRight_0
   - first:
-      213: -4084280352966822121
-    second: BlackBoySpriteSheet_47
+      213: -2060946724
+    second: JumpRight_1
+  - first:
+      213: 934062082
+    second: JumpRight_2
+  - first:
+      213: 1425138604
+    second: JumpRight_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -178,7 +184,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -189,10 +195,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -216,7 +222,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -229,7 +235,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -242,7 +248,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -254,1057 +260,1101 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_0
+      name: IdleDown_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 705
-        width: 22
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fb4825db9114d880800000000000000
-      internalID: -8587219228494902288
+      spriteID: c068642de602c0253187620ec694db9b
+      internalID: -1122542092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_1
+      name: IdleDown_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 705
-        width: 22
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f44b4da597bd2a500800000000000000
-      internalID: 406128230678180943
+      spriteID: 5107e56718670935977748de9b584591
+      internalID: -1578242779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_2
+      name: IdleDown_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 705
-        width: 22
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6523751c9fcff7280800000000000000
-      internalID: -9043231377115893162
+      spriteID: 315a8df1fa11a43a94ccb4ad0095c57f
+      internalID: -373027721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_3
+      name: IdleDown_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 705
-        width: 22
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a588c1076e973a2e0800000000000000
-      internalID: -2115713369303644070
+      spriteID: 2a980db33fbf31203dc3c549b360a74c
+      internalID: 698869606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_4
+      name: IdleUp_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 641
-        width: 22
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3888b6cf54644e5c0800000000000000
-      internalID: -4187144487146125181
+      spriteID: d4099d4f0a8dea466a85f150aa569c89
+      internalID: 283935494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_5
+      name: IdleUp_1
       rect:
         serializedVersion: 2
-        x: 86
-        y: 641
-        width: 21
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 140eda4a3995d6230800000000000000
-      internalID: 3633658965015781441
+      spriteID: d8eb01bd8c05f2ed14ceeee0bc80466d
+      internalID: 133399666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_6
+      name: IdleUp_2
       rect:
         serializedVersion: 2
-        x: 150
-        y: 641
-        width: 21
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0be01d4a6ee0f3000800000000000000
-      internalID: 17749307303202480
+      spriteID: 7e20a47c9785d1921cdf85ffdada3bed
+      internalID: 152043075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_7
+      name: IdleUp_3
       rect:
         serializedVersion: 2
-        x: 214
-        y: 641
-        width: 21
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d6bb2fedeb701c490800000000000000
-      internalID: -7727886969225430163
+      spriteID: 8230251ff003be40537e714e2c6d552c
+      internalID: -378788681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_8
+      name: IdleLeft_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 577
-        width: 17
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4650a27bda4d92860800000000000000
-      internalID: 7505764096557057380
+      spriteID: c1f6a6ffdc7517e10a8446f461b78f39
+      internalID: -1046414685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_9
+      name: IdleLeft_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 577
-        width: 18
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8b5776de355aea60800000000000000
-      internalID: 7704063840945134474
+      spriteID: d7e5e9334c7864cbdb58b2b10e1734ff
+      internalID: 1582299615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_10
+      name: IdleLeft_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 577
-        width: 18
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad56c54957d3b2f60800000000000000
-      internalID: 8010563937418110426
+      spriteID: 94bcee2f35e7e0ea1103d515d1873f4e
+      internalID: -1823465629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_11
+      name: IdleLeft_3
       rect:
         serializedVersion: 2
-        x: 216
-        y: 577
-        width: 17
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: edcc45cd6459e0380800000000000000
-      internalID: -9003094473490248482
+      spriteID: aaa50d8a5c4de81d462aee94ba9107b1
+      internalID: 1276494463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_12
+      name: IdleRight_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 513
-        width: 17
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3d118d1e2a1581f0800000000000000
-      internalID: -1043398953300583106
+      spriteID: 2041f4a3c82fc5c22b42591c5c2ea85f
+      internalID: 282027707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_13
+      name: IdleRight_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 513
-        width: 18
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5da3ffad1abb05440800000000000000
-      internalID: 4922640696554240725
+      spriteID: 023cae5dbf665a9b705e2184d416d49c
+      internalID: -347505621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_14
+      name: IdleRight_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 513
-        width: 18
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84c350d64ff5f8580800000000000000
-      internalID: -8822727641589793720
+      spriteID: 48d4d3b32e96c39094acfac09ef55719
+      internalID: 1471338895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_15
+      name: IdleRight_3
       rect:
         serializedVersion: 2
-        x: 216
-        y: 513
-        width: 17
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63e5186e4e47dd110800000000000000
-      internalID: 1287313594966433334
+      spriteID: 1c7bc32b336e323ae23d0f841faa04ff
+      internalID: 969435553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_16
+      name: RunDown_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 449
-        width: 27
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9593bd69c0f00900800000000000000
-      internalID: 648783094260929947
+      spriteID: b2d3f933e855eed5adacc03ac32580e5
+      internalID: -1518386185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_17
+      name: RunDown_1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 449
-        width: 32
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86fa1acd1219771b0800000000000000
-      internalID: -5658894832146206872
+      spriteID: 5ec06c74656f893598ae9ee34fed5ed1
+      internalID: -1974699773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_18
+      name: RunDown_2
       rect:
         serializedVersion: 2
-        x: 143
-        y: 449
-        width: 35
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3da380b9df7937e10800000000000000
-      internalID: 2194264558943091411
+      spriteID: 805802f1319e1ae60d139fa49dc67cb6
+      internalID: 859264414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_19
+      name: RunDown_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 449
-        width: 34
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa4917200be80d700800000000000000
-      internalID: 563106840027698351
+      spriteID: f33de91e5edcd4f38069240f47e9f358
+      internalID: 1306269765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_20
+      name: RunUp_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 385
-        width: 26
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 800fa4bab383674b0800000000000000
-      internalID: -5443101270702624760
+      spriteID: 21f36de9a52f511937b474ef18ef82cc
+      internalID: -2101753993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_21
+      name: RunUp_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 385
-        width: 28
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b4fe6f6155b82b10800000000000000
-      internalID: 1957013399459001520
+      spriteID: 90c116ddb510889f9cf50af3e269fd5f
+      internalID: 1674226071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_22
+      name: RunUp_2
       rect:
         serializedVersion: 2
-        x: 147
-        y: 385
-        width: 26
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a5f02447fce2d90c0800000000000000
-      internalID: -4567442978540220582
+      spriteID: 08b780449698789bde717750c638a94c
+      internalID: -454664633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_23
+      name: RunUp_3
       rect:
         serializedVersion: 2
-        x: 211
-        y: 385
-        width: 26
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82c3ee80c4acb9790800000000000000
-      internalID: -7522196324676125656
+      spriteID: ebfc0aaac63c92615c9c82fe0aea03e2
+      internalID: 1578262806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_24
+      name: RunLeft_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 321
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 751268bd1ac1a03a0800000000000000
-      internalID: -6698510014261878441
+      spriteID: a9387262b15526f1f04da8d394b6a746
+      internalID: 813662865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_25
+      name: RunLeft_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 321
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f4cc1d038fc65320800000000000000
-      internalID: 2546450801092248821
+      spriteID: c9eb6ee1368bf6bd56aa04108b12fdbb
+      internalID: 107970752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_26
+      name: RunLeft_2
       rect:
         serializedVersion: 2
-        x: 142
-        y: 321
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1de8fa30f0b834a0800000000000000
-      internalID: -6613341506965541605
+      spriteID: 4d142d22218d39cec04aaa8cbb244c7e
+      internalID: 272192893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_27
+      name: RunLeft_3
       rect:
         serializedVersion: 2
-        x: 206
-        y: 321
-        width: 36
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8fedc7665930f590800000000000000
-      internalID: -7642545524376211574
+      spriteID: 4d97f7cc3240bb6799a47cb8fefebb4a
+      internalID: -751273508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_28
+      name: RunLeft_4
       rect:
         serializedVersion: 2
-        x: 14
-        y: 257
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8b9710ac55eac6d0800000000000000
-      internalID: -2969308818311767157
+      spriteID: a1c4e8b27d5f4a90b3e6c1d84720f5aa
+      internalID: 1625481739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_29
+      name: RunRight_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 257
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60866360ceec50540800000000000000
-      internalID: 4973608876612413446
+      spriteID: e749092f9effcfe86df7e3125c72a54b
+      internalID: -1869755406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_30
+      name: RunRight_1
       rect:
         serializedVersion: 2
-        x: 142
-        y: 257
-        width: 37
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78e7cc134fe067150800000000000000
-      internalID: 5869895606294314631
+      spriteID: 62b116945b092e7aa1befefa89c5c9de
+      internalID: 1195129463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_31
+      name: RunRight_2
       rect:
         serializedVersion: 2
-        x: 206
-        y: 257
-        width: 36
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79d69ceff831c3b60800000000000000
-      internalID: 7727072569836793239
+      spriteID: 6a227ecf292451b6926aec83cdd44212
+      internalID: 546357047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_32
+      name: RunRight_3
       rect:
         serializedVersion: 2
-        x: 18
-        y: 193
-        width: 29
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54ac3804fe782e150800000000000000
-      internalID: 5900427923458083397
+      spriteID: 5468b891bed1ad10f32c1dea4a43635e
+      internalID: -1370995534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_33
+      name: RunRight_4
       rect:
         serializedVersion: 2
-        x: 81
-        y: 193
-        width: 31
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5aa299d49da81c2a0800000000000000
-      internalID: -6718936503145649499
+      spriteID: b2d5f9c38e604b81c4f7d2e95831a6bb
+      internalID: -1625481741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_34
+      name: JumpDown_0
       rect:
         serializedVersion: 2
-        x: 144
-        y: 193
-        width: 33
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27ca0ae28656c8100800000000000000
-      internalID: 111575588910705778
+      spriteID: ec5853838431fc44318d712abe142e91
+      internalID: 1386338826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_35
+      name: JumpDown_1
       rect:
         serializedVersion: 2
-        x: 210
-        y: 193
-        width: 28
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9f68acc0db7d6fc0800000000000000
-      internalID: -3500005198680002657
+      spriteID: 6959a5e377ae7e57e3c548254c1ab5dc
+      internalID: -1033742849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_36
+      name: JumpDown_2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 129
-        width: 20
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28f2d5b9b947241f0800000000000000
-      internalID: -1062158350430687358
+      spriteID: 33f12ecdf0589192a8ea887323b3ad11
+      internalID: 2142684131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_37
+      name: JumpDown_3
       rect:
         serializedVersion: 2
-        x: 84
-        y: 129
-        width: 24
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 405e6e4b9450827b0800000000000000
-      internalID: -5248939551574530812
+      spriteID: ee6f99707e2bef7d71d24ab4b88efe4d
+      internalID: -1033787038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_38
+      name: JumpUp_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 129
-        width: 27
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b0d709b104b06f00800000000000000
-      internalID: 1108083427825406137
+      spriteID: 9dbda62cfbeb48bd02e09995676cfcc5
+      internalID: 581688490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_39
+      name: JumpUp_1
       rect:
         serializedVersion: 2
-        x: 212
-        y: 129
-        width: 24
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b2253ab011066420800000000000000
-      internalID: 2622785004345041592
+      spriteID: d876bdb211e19e5be0b245b79525adf0
+      internalID: 1620520831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_40
+      name: JumpUp_2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 65
-        width: 21
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9af2db6831b950540800000000000000
-      internalID: 4973551871667810217
+      spriteID: 708f75f3f71f216fb3c3286da6084424
+      internalID: 760704366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_41
+      name: JumpUp_3
       rect:
         serializedVersion: 2
-        x: 86
-        y: 65
-        width: 21
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd7d802b8922f75f0800000000000000
-      internalID: -756848173157656612
+      spriteID: 6be6c6711b6f8e5396ef9f41d0c2b357
+      internalID: -130692880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_42
+      name: JumpLeft_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 65
-        width: 22
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e9a0521f1c4b1a00800000000000000
-      internalID: 728259461085440484
+      spriteID: 8b655be50e8a2e129336ae58132c908b
+      internalID: 968512056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_43
+      name: JumpLeft_1
       rect:
         serializedVersion: 2
-        x: 214
-        y: 65
-        width: 21
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 272f14d8876182320800000000000000
-      internalID: 2533299497417699954
+      spriteID: f9d7d894657af8e668ddc1c266d395e0
+      internalID: -1465768145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_44
+      name: JumpLeft_2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 1
-        width: 21
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4745643f70eab1e50800000000000000
-      internalID: 6781205013105890420
+      spriteID: 33a7c14997200bc0ff972c12f0e498db
+      internalID: 811739818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_45
+      name: JumpLeft_3
       rect:
         serializedVersion: 2
-        x: 86
-        y: 1
-        width: 21
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90fecfdee360a0dd0800000000000000
-      internalID: -2519194174209855735
+      spriteID: c3b39f22ef80a50dcbc44452b07c37d8
+      internalID: 345714460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_46
+      name: JumpRight_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 1
-        width: 22
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1f0b4d2381626380800000000000000
-      internalID: -8979507490994843874
+      spriteID: 4b35f447303c9a549ee36efa8089387d
+      internalID: 903058533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlackBoySpriteSheet_47
+      name: JumpRight_1
       rect:
         serializedVersion: 2
-        x: 214
-        y: 1
-        width: 21
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7173e4e88a8b157c0800000000000000
-      internalID: -4084280352966822121
+      spriteID: 37a055d901cb6140a80da2bc5a414604
+      internalID: -2060946724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRight_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12ba4ca2c77a5d5b2000b182e52d7f
+      internalID: 934062082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRight_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd55cf4aa65580c9ce2e28d0da142f0
+      internalID: 1425138604
       vertices: []
       indices: 
       edges: []
@@ -1313,7 +1363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7deae670abca4f8ad56fc517fd3635bd
     internalID: 0
     vertices: []
     indices: 
@@ -1321,56 +1371,60 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":12.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      BlackBoySpriteSheet_0: -8587219228494902288
-      BlackBoySpriteSheet_1: 406128230678180943
-      BlackBoySpriteSheet_10: 8010563937418110426
-      BlackBoySpriteSheet_11: -9003094473490248482
-      BlackBoySpriteSheet_12: -1043398953300583106
-      BlackBoySpriteSheet_13: 4922640696554240725
-      BlackBoySpriteSheet_14: -8822727641589793720
-      BlackBoySpriteSheet_15: 1287313594966433334
-      BlackBoySpriteSheet_16: 648783094260929947
-      BlackBoySpriteSheet_17: -5658894832146206872
-      BlackBoySpriteSheet_18: 2194264558943091411
-      BlackBoySpriteSheet_19: 563106840027698351
-      BlackBoySpriteSheet_2: -9043231377115893162
-      BlackBoySpriteSheet_20: -5443101270702624760
-      BlackBoySpriteSheet_21: 1957013399459001520
-      BlackBoySpriteSheet_22: -4567442978540220582
-      BlackBoySpriteSheet_23: -7522196324676125656
-      BlackBoySpriteSheet_24: -6698510014261878441
-      BlackBoySpriteSheet_25: 2546450801092248821
-      BlackBoySpriteSheet_26: -6613341506965541605
-      BlackBoySpriteSheet_27: -7642545524376211574
-      BlackBoySpriteSheet_28: -2969308818311767157
-      BlackBoySpriteSheet_29: 4973608876612413446
-      BlackBoySpriteSheet_3: -2115713369303644070
-      BlackBoySpriteSheet_30: 5869895606294314631
-      BlackBoySpriteSheet_31: 7727072569836793239
-      BlackBoySpriteSheet_32: 5900427923458083397
-      BlackBoySpriteSheet_33: -6718936503145649499
-      BlackBoySpriteSheet_34: 111575588910705778
-      BlackBoySpriteSheet_35: -3500005198680002657
-      BlackBoySpriteSheet_36: -1062158350430687358
-      BlackBoySpriteSheet_37: -5248939551574530812
-      BlackBoySpriteSheet_38: 1108083427825406137
-      BlackBoySpriteSheet_39: 2622785004345041592
-      BlackBoySpriteSheet_4: -4187144487146125181
-      BlackBoySpriteSheet_40: 4973551871667810217
-      BlackBoySpriteSheet_41: -756848173157656612
-      BlackBoySpriteSheet_42: 728259461085440484
-      BlackBoySpriteSheet_43: 2533299497417699954
-      BlackBoySpriteSheet_44: 6781205013105890420
-      BlackBoySpriteSheet_45: -2519194174209855735
-      BlackBoySpriteSheet_46: -8979507490994843874
-      BlackBoySpriteSheet_47: -4084280352966822121
-      BlackBoySpriteSheet_5: 3633658965015781441
-      BlackBoySpriteSheet_6: 17749307303202480
-      BlackBoySpriteSheet_7: -7727886969225430163
-      BlackBoySpriteSheet_8: 7505764096557057380
-      BlackBoySpriteSheet_9: 7704063840945134474
+      IdleDown_0: -1122542092
+      IdleDown_1: -1578242779
+      IdleDown_2: -373027721
+      IdleDown_3: 698869606
+      IdleLeft_0: -1046414685
+      IdleLeft_1: 1582299615
+      IdleLeft_2: -1823465629
+      IdleLeft_3: 1276494463
+      IdleRight_0: 282027707
+      IdleRight_1: -347505621
+      IdleRight_2: 1471338895
+      IdleRight_3: 969435553
+      IdleUp_0: 283935494
+      IdleUp_1: 133399666
+      IdleUp_2: 152043075
+      IdleUp_3: -378788681
+      JumpDown_0: 1386338826
+      JumpDown_1: -1033742849
+      JumpDown_2: 2142684131
+      JumpDown_3: -1033787038
+      JumpLeft_0: 968512056
+      JumpLeft_1: -1465768145
+      JumpLeft_2: 811739818
+      JumpLeft_3: 345714460
+      JumpRight_0: 903058533
+      JumpRight_1: -2060946724
+      JumpRight_2: 934062082
+      JumpRight_3: 1425138604
+      JumpUp_0: 581688490
+      JumpUp_1: 1620520831
+      JumpUp_2: 760704366
+      JumpUp_3: -130692880
+      RunDown_0: -1518386185
+      RunDown_1: -1974699773
+      RunDown_2: 859264414
+      RunDown_3: 1306269765
+      RunLeft_0: 813662865
+      RunLeft_1: 107970752
+      RunLeft_2: 272192893
+      RunLeft_3: -751273508
+      RunLeft_4: 1625481739
+      RunRight_0: -1869755406
+      RunRight_1: 1195129463
+      RunRight_2: 546357047
+      RunRight_3: -1370995534
+      RunRight_4: -1625481741
+      RunUp_0: -2101753993
+      RunUp_1: 1674226071
+      RunUp_2: -454664633
+      RunUp_3: 1578262806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
