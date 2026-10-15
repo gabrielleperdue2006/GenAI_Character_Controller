@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 7f5e3002330ab4ae89bb8611f78f699f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8587219228494902288
+    second: BlackBoySpriteSheet_0
+  - first:
+      213: 406128230678180943
+    second: BlackBoySpriteSheet_1
+  - first:
+      213: -9043231377115893162
+    second: BlackBoySpriteSheet_2
+  - first:
+      213: -2115713369303644070
+    second: BlackBoySpriteSheet_3
+  - first:
+      213: -4187144487146125181
+    second: BlackBoySpriteSheet_4
+  - first:
+      213: 3633658965015781441
+    second: BlackBoySpriteSheet_5
+  - first:
+      213: 17749307303202480
+    second: BlackBoySpriteSheet_6
+  - first:
+      213: -7727886969225430163
+    second: BlackBoySpriteSheet_7
+  - first:
+      213: 7505764096557057380
+    second: BlackBoySpriteSheet_8
+  - first:
+      213: 7704063840945134474
+    second: BlackBoySpriteSheet_9
+  - first:
+      213: 8010563937418110426
+    second: BlackBoySpriteSheet_10
+  - first:
+      213: -9003094473490248482
+    second: BlackBoySpriteSheet_11
+  - first:
+      213: -1043398953300583106
+    second: BlackBoySpriteSheet_12
+  - first:
+      213: 4922640696554240725
+    second: BlackBoySpriteSheet_13
+  - first:
+      213: -8822727641589793720
+    second: BlackBoySpriteSheet_14
+  - first:
+      213: 1287313594966433334
+    second: BlackBoySpriteSheet_15
+  - first:
+      213: 648783094260929947
+    second: BlackBoySpriteSheet_16
+  - first:
+      213: -5658894832146206872
+    second: BlackBoySpriteSheet_17
+  - first:
+      213: 2194264558943091411
+    second: BlackBoySpriteSheet_18
+  - first:
+      213: 563106840027698351
+    second: BlackBoySpriteSheet_19
+  - first:
+      213: -5443101270702624760
+    second: BlackBoySpriteSheet_20
+  - first:
+      213: 1957013399459001520
+    second: BlackBoySpriteSheet_21
+  - first:
+      213: -4567442978540220582
+    second: BlackBoySpriteSheet_22
+  - first:
+      213: -7522196324676125656
+    second: BlackBoySpriteSheet_23
+  - first:
+      213: -6698510014261878441
+    second: BlackBoySpriteSheet_24
+  - first:
+      213: 2546450801092248821
+    second: BlackBoySpriteSheet_25
+  - first:
+      213: -6613341506965541605
+    second: BlackBoySpriteSheet_26
+  - first:
+      213: -7642545524376211574
+    second: BlackBoySpriteSheet_27
+  - first:
+      213: -2969308818311767157
+    second: BlackBoySpriteSheet_28
+  - first:
+      213: 4973608876612413446
+    second: BlackBoySpriteSheet_29
+  - first:
+      213: 5869895606294314631
+    second: BlackBoySpriteSheet_30
+  - first:
+      213: 7727072569836793239
+    second: BlackBoySpriteSheet_31
+  - first:
+      213: 5900427923458083397
+    second: BlackBoySpriteSheet_32
+  - first:
+      213: -6718936503145649499
+    second: BlackBoySpriteSheet_33
+  - first:
+      213: 111575588910705778
+    second: BlackBoySpriteSheet_34
+  - first:
+      213: -3500005198680002657
+    second: BlackBoySpriteSheet_35
+  - first:
+      213: -1062158350430687358
+    second: BlackBoySpriteSheet_36
+  - first:
+      213: -5248939551574530812
+    second: BlackBoySpriteSheet_37
+  - first:
+      213: 1108083427825406137
+    second: BlackBoySpriteSheet_38
+  - first:
+      213: 2622785004345041592
+    second: BlackBoySpriteSheet_39
+  - first:
+      213: 4973551871667810217
+    second: BlackBoySpriteSheet_40
+  - first:
+      213: -756848173157656612
+    second: BlackBoySpriteSheet_41
+  - first:
+      213: 728259461085440484
+    second: BlackBoySpriteSheet_42
+  - first:
+      213: 2533299497417699954
+    second: BlackBoySpriteSheet_43
+  - first:
+      213: 6781205013105890420
+    second: BlackBoySpriteSheet_44
+  - first:
+      213: -2519194174209855735
+    second: BlackBoySpriteSheet_45
+  - first:
+      213: -8979507490994843874
+    second: BlackBoySpriteSheet_46
+  - first:
+      213: -4084280352966822121
+    second: BlackBoySpriteSheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4825db9114d880800000000000000
+      internalID: -8587219228494902288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 705
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44b4da597bd2a500800000000000000
+      internalID: 406128230678180943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 705
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6523751c9fcff7280800000000000000
+      internalID: -9043231377115893162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 705
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a588c1076e973a2e0800000000000000
+      internalID: -2115713369303644070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 641
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3888b6cf54644e5c0800000000000000
+      internalID: -4187144487146125181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 641
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140eda4a3995d6230800000000000000
+      internalID: 3633658965015781441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 641
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be01d4a6ee0f3000800000000000000
+      internalID: 17749307303202480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 641
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb2fedeb701c490800000000000000
+      internalID: -7727886969225430163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 577
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650a27bda4d92860800000000000000
+      internalID: 7505764096557057380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 577
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b5776de355aea60800000000000000
+      internalID: 7704063840945134474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 577
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad56c54957d3b2f60800000000000000
+      internalID: 8010563937418110426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 577
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc45cd6459e0380800000000000000
+      internalID: -9003094473490248482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 513
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d118d1e2a1581f0800000000000000
+      internalID: -1043398953300583106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 513
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3ffad1abb05440800000000000000
+      internalID: 4922640696554240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 513
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c350d64ff5f8580800000000000000
+      internalID: -8822727641589793720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 17
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5186e4e47dd110800000000000000
+      internalID: 1287313594966433334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9593bd69c0f00900800000000000000
+      internalID: 648783094260929947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fa1acd1219771b0800000000000000
+      internalID: -5658894832146206872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 449
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da380b9df7937e10800000000000000
+      internalID: 2194264558943091411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 449
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4917200be80d700800000000000000
+      internalID: 563106840027698351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 385
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800fa4bab383674b0800000000000000
+      internalID: -5443101270702624760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4fe6f6155b82b10800000000000000
+      internalID: 1957013399459001520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 385
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f02447fce2d90c0800000000000000
+      internalID: -4567442978540220582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3ee80c4acb9790800000000000000
+      internalID: -7522196324676125656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751268bd1ac1a03a0800000000000000
+      internalID: -6698510014261878441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 321
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4cc1d038fc65320800000000000000
+      internalID: 2546450801092248821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 321
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de8fa30f0b834a0800000000000000
+      internalID: -6613341506965541605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 321
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fedc7665930f590800000000000000
+      internalID: -7642545524376211574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b9710ac55eac6d0800000000000000
+      internalID: -2969308818311767157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 257
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60866360ceec50540800000000000000
+      internalID: 4973608876612413446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 257
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7cc134fe067150800000000000000
+      internalID: 5869895606294314631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 257
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d69ceff831c3b60800000000000000
+      internalID: 7727072569836793239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 193
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac3804fe782e150800000000000000
+      internalID: 5900427923458083397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa299d49da81c2a0800000000000000
+      internalID: -6718936503145649499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca0ae28656c8100800000000000000
+      internalID: 111575588910705778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 193
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f68acc0db7d6fc0800000000000000
+      internalID: -3500005198680002657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 129
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2d5b9b947241f0800000000000000
+      internalID: -1062158350430687358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e6e4b9450827b0800000000000000
+      internalID: -5248939551574530812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 129
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d709b104b06f00800000000000000
+      internalID: 1108083427825406137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 129
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2253ab011066420800000000000000
+      internalID: 2622785004345041592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af2db6831b950540800000000000000
+      internalID: 4973551871667810217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d802b8922f75f0800000000000000
+      internalID: -756848173157656612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a0521f1c4b1a00800000000000000
+      internalID: 728259461085440484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 65
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f14d8876182320800000000000000
+      internalID: 2533299497417699954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4745643f70eab1e50800000000000000
+      internalID: 6781205013105890420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fecfdee360a0dd0800000000000000
+      internalID: -2519194174209855735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f0b4d2381626380800000000000000
+      internalID: -8979507490994843874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBoySpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7173e4e88a8b157c0800000000000000
+      internalID: -4084280352966822121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlackBoySpriteSheet_0: -8587219228494902288
+      BlackBoySpriteSheet_1: 406128230678180943
+      BlackBoySpriteSheet_10: 8010563937418110426
+      BlackBoySpriteSheet_11: -9003094473490248482
+      BlackBoySpriteSheet_12: -1043398953300583106
+      BlackBoySpriteSheet_13: 4922640696554240725
+      BlackBoySpriteSheet_14: -8822727641589793720
+      BlackBoySpriteSheet_15: 1287313594966433334
+      BlackBoySpriteSheet_16: 648783094260929947
+      BlackBoySpriteSheet_17: -5658894832146206872
+      BlackBoySpriteSheet_18: 2194264558943091411
+      BlackBoySpriteSheet_19: 563106840027698351
+      BlackBoySpriteSheet_2: -9043231377115893162
+      BlackBoySpriteSheet_20: -5443101270702624760
+      BlackBoySpriteSheet_21: 1957013399459001520
+      BlackBoySpriteSheet_22: -4567442978540220582
+      BlackBoySpriteSheet_23: -7522196324676125656
+      BlackBoySpriteSheet_24: -6698510014261878441
+      BlackBoySpriteSheet_25: 2546450801092248821
+      BlackBoySpriteSheet_26: -6613341506965541605
+      BlackBoySpriteSheet_27: -7642545524376211574
+      BlackBoySpriteSheet_28: -2969308818311767157
+      BlackBoySpriteSheet_29: 4973608876612413446
+      BlackBoySpriteSheet_3: -2115713369303644070
+      BlackBoySpriteSheet_30: 5869895606294314631
+      BlackBoySpriteSheet_31: 7727072569836793239
+      BlackBoySpriteSheet_32: 5900427923458083397
+      BlackBoySpriteSheet_33: -6718936503145649499
+      BlackBoySpriteSheet_34: 111575588910705778
+      BlackBoySpriteSheet_35: -3500005198680002657
+      BlackBoySpriteSheet_36: -1062158350430687358
+      BlackBoySpriteSheet_37: -5248939551574530812
+      BlackBoySpriteSheet_38: 1108083427825406137
+      BlackBoySpriteSheet_39: 2622785004345041592
+      BlackBoySpriteSheet_4: -4187144487146125181
+      BlackBoySpriteSheet_40: 4973551871667810217
+      BlackBoySpriteSheet_41: -756848173157656612
+      BlackBoySpriteSheet_42: 728259461085440484
+      BlackBoySpriteSheet_43: 2533299497417699954
+      BlackBoySpriteSheet_44: 6781205013105890420
+      BlackBoySpriteSheet_45: -2519194174209855735
+      BlackBoySpriteSheet_46: -8979507490994843874
+      BlackBoySpriteSheet_47: -4084280352966822121
+      BlackBoySpriteSheet_5: 3633658965015781441
+      BlackBoySpriteSheet_6: 17749307303202480
+      BlackBoySpriteSheet_7: -7727886969225430163
+      BlackBoySpriteSheet_8: 7505764096557057380
+      BlackBoySpriteSheet_9: 7704063840945134474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
